@@ -1,4 +1,4 @@
-# 🇺🇸 USA Housing Market Intelligence Platform (Enterprise Edition)
+#USA Housing Market Intelligence Platform (Enterprise Edition)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge)
@@ -48,6 +48,9 @@ Generates an official Valuation Dossier tagged with a unique cryptographic Sessi
 └── README.md               # System documentation
 
 git clone https://github.com/akshitgajera1013/House-Price-Prediction-USA
+
 cd usa-housing-intelligence
+
 pip install -r requirements.txt
+
 python -m streamlit run app.py
